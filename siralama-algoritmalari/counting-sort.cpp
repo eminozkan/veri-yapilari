@@ -85,11 +85,6 @@ void counting_sort(int arr[],const int size){
         cout << "Time taken by function: " << duration.count() << " microseconds" << endl;
 
 
-        for(int i = 0; i < 10;i++){
-            cout << arr[i] << endl;
-        }
-
-
 
         return 0;
     }
